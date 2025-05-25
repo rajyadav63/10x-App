@@ -1,6 +1,6 @@
-# SkillSpire App 🚀
+# 10x App 🚀
 
-**SkillSpire** is a full-stack e-learning platform where users can explore and purchase courses on Web Development, App Development, UI/UX Design, Video Editing, and other trending tech skills.
+**10x App** is a full-stack e-learning platform where users can explore and purchase courses on Web Development, App Development, UI/UX Design, Video Editing, and other trending tech skills.
 
 This project is built using:
 
